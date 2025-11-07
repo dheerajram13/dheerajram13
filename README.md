@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Connect App (Side Project). <br>I'm looking for Data Scientist, and Software Engineer roles. <br>I've worked on Python, Go, Javascript<br>I'm learning for AWS Certified Machine Learning Engineer – Associate exam
+I'm currently working on Connect App (Side Project). <br>I'm looking for Data Scientist, and Software Engineer roles. <br>I've worked on Python, Go, Javascript<br>I'm preparing for AWS ML exam 
  
 
 ## 🌐 Socials:
