@@ -1,6 +1,9 @@
-# 💫 About Me:
-I'm currently working on Connect App (Side Project). <br>I'm looking for Data Scientist, and Software Engineer roles. <br>I've worked on Python, Go, Javascript<br>I'm preparing for AWS ML exam 
- 
+# 💫 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dheerajsrirama/) 
+I'm currently working on **[FilmFind](https://github.com/dheerajram13/FilmFind)** 🎬  
+I'm looking for **Data Scientist** and **Software Engineer** roles.  
+I've worked with **Python**, **Go**, and **JavaScript**.  
+I'm currently preparing for the **AWS ML Specialty** exam.
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheerajsrirama/)
