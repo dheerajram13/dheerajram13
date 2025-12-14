@@ -1,4 +1,7 @@
-## 🛠️ Tech Stack (Backend • Data • ML • Cloud)
+## 👋 Hi, I’m Dheeraj
+
+Software Engineer / Data Scientist with experience building **scalable backend systems**, **production ML pipelines**, and **LLM-powered applications** in healthcare, fintech, and data-intensive domains.
+
 
 ### Backend & Systems
 - **Languages:** Python, Go, JavaScript, TypeScript  
