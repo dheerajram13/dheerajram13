@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Dheeraj
 
-Software Engineer / Data Scientist with experience building **scalable backend systems**, **production ML pipelines**, and **LLM-powered applications** in healthcare, fintech, and data-intensive domains.
+Software Engineer / Data Scientist with experience building **scalable backend systems**, **production ML pipelines**, and **LLM-powered applications**.
 
 
 ### Backend & Systems
