@@ -13,14 +13,14 @@ Software Engineer / Data Scientist with experience building **scalable backend s
 - **Web & Infra:** Nginx, Docker, Kubernetes  
 
 ### Cloud & Distributed Systems
-- **AWS:** S3, SQS, Lambda, ECS, EKS, API Gateway, SNS, RDS, Dynamo
+- **AWS:** S3, SQS, Lambda, ECS, EKS, API Gateway, SNS, RDS, Dynamo DB
 - **Deployments & Scaling:** CI/CD, containerized deployments, autoscaling  
 - **Monitoring & Reliability:** Sentry, New Relic, Grafana, Loguru  
 
 ### Data, Analytics & BI
 - **Data Processing:** Pandas, NumPy, SQL  
 - **Analytics & Forecasting:** statsmodels, Prophet  
-- **Dashboards & Reporting:** Power BI (automated reporting, operational insights)
+- **Dashboards & Reporting:** Power BI
 
 ### Machine Learning & LLMs
 - **ML Frameworks:** scikit-learn, TensorFlow, PyTorch  
