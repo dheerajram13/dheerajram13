@@ -32,7 +32,7 @@ Software Engineer / Data Scientist with experience building **scalable backend s
 - **MLOps:** MLflow, Databricks, experiment tracking, model evaluation  
 
 ### Foundations
-- **Computer Science:** Data Structures & Algorithms, OOP, Functional Programming  
+- **Computer Science:** Data Structures & Algorithms, OOP, Functional Programming, Design Patterns
 - **Architecture:** Database architecture, high-level system design  
 
 ## 🌐 Connect with me
