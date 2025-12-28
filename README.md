@@ -32,8 +32,8 @@ Software Engineer / Data Scientist with experience building **scalable backend s
 - **MLOps:** MLflow, Databricks, experiment tracking, model evaluation  
 
 ### Foundations
-- **Computer Science:** Data Structures & Algorithms, OOP, Functional Programming, Design Patterns
-- **Architecture:** Database architecture, high-level system design  
+- **Computer Science:** Data Structures & Algorithms, OOP, Functional Programming, 
+- **Architecture:** Database architecture, Design Patterns, high-level system design  
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheerajsrirama/)
