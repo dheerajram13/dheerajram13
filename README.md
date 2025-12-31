@@ -13,7 +13,7 @@ Software Engineer / Data Scientist with experience building **scalable backend s
 - **Web & Infra:** Nginx, Docker, Kubernetes  
 
 ### Cloud & Distributed Systems
-- **AWS:** S3, SQS/SNS, Lambda, ECS/EKS, API Gateway, RDS, DynamoDB
+- **AWS:** S3, Lambda, ECS/EKS, API Gateway, RDS, DynamoDB, SQS/SNS
 - **Deployments & Scaling:** CI/CD, containerized deployments, autoscaling  
 - **Monitoring & Reliability:** Sentry, New Relic, Grafana, Loguru  
 - **GCP:** BigQuery, Cloud Functions (working knowledge)
@@ -27,13 +27,13 @@ Software Engineer / Data Scientist with experience building **scalable backend s
 ### Machine Learning & LLMs
 - **ML Frameworks:** scikit-learn, TensorFlow, PyTorch  
 - **NLP & Document AI:** spaCy, NER, layout-aware models  
-- **LLMs & GenAI:** LangChain, HuggingFace Transformers, BERT  
+- **LLMs & GenAI:** LangChain, HuggingFace Transformers, BERT; prompt engineering, retrieval-augmented generation (RAG)
 - **ML Systems:** model deployment, low-latency inference, batch & real-time pipelines  
 - **MLOps:** MLflow, Databricks, experiment tracking, model evaluation  
 
 ### Foundations
-- **Computer Science:** Data Structures & Algorithms, OOP, Functional Programming, 
-- **Architecture:** Database architecture, Design Patterns, high-level system design  
+- **Computer Science:** Data Structures & Algorithms, OOP, Functional Programming  
+- **Architecture:** Database design, system design, design patterns
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheerajsrirama/)
