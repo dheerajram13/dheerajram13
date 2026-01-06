@@ -5,12 +5,15 @@ Software Engineer / Data Scientist with experience building **scalable backend s
 
 ### Backend & Systems
 - **Languages:** Python, Go, JavaScript, TypeScript  
-- **Frameworks:** Django, FastAPI, Flask, Node.js  
+- **Frameworks:** Django, FastAPI, Flask, Node.js
 - **Databases:** PostgreSQL, MySQL, Firebase  
 - **Async & Messaging:** Celery, RabbitMQ, SQS  
 - **Caching:** Redis  
 - **APIs & Security:** REST APIs, Authentication & Authorization  
 - **Web & Infra:** Nginx, Docker, Kubernetes  
+
+### Frontend 
+- **Frameworks and Libraries:**  React, Next.js, React Native (Expo)
 
 ### Cloud & Distributed Systems
 - **AWS:** S3, Lambda, ECS/EKS, API Gateway, RDS, DynamoDB, SQS/SNS
