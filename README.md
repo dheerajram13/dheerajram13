@@ -12,8 +12,11 @@ Software Engineer / Data Scientist with experience building **scalable backend s
 - **APIs & Security:** REST APIs, Authentication & Authorization  
 - **Web & Infra:** Nginx, Docker, Kubernetes  
 
-### Frontend 
-- **Frameworks and Libraries:**  React, Next.js, React Native (Expo)
+### Frontend
+- **Frameworks & Libraries:** React, Next.js, React Native (Expo)
+- **Languages:** JavaScript, TypeScript
+- **UI & Styling:** HTML5, CSS3, Tailwind CSS, Material UI
+- **Data & State:** REST API integration
 
 ### Cloud & Distributed Systems
 - **AWS:** S3, Lambda, ECS/EKS, API Gateway, RDS, DynamoDB, SQS/SNS
