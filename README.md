@@ -10,7 +10,7 @@ Software Engineer / Data Scientist with experience building **scalable backend s
 - **Async & Messaging:** Celery, RabbitMQ, SQS  
 - **Caching:** Redis  
 - **APIs & Security:** REST APIs, Authentication & Authorization  
-- **Web & Infra:** Nginx, Docker, Kubernetes  
+- **Web & Infra:** Nginx, Apache, Docker, Kubernetes  
 
 ### Frontend
 - **Frameworks & Libraries:** React, Next.js, React Native (Expo)
