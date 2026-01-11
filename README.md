@@ -39,7 +39,7 @@ Software Engineer / Data Scientist with experience building **scalable backend s
 
 ### Foundations
 - **Computer Science:** Data Structures & Algorithms, OOP, Functional Programming  
-- **Architecture:** Database design, system design, design patterns
+- **Architecture:** Database design, System Design, Design Patterns, SOLID Principles
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheerajsrirama/)
