@@ -1,7 +1,58 @@
-## 👋 Hi, I’m Dheeraj
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dheeraj&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-Software Engineer / Data Scientist with experience building **scalable backend systems**, **production ML pipelines**, and **LLM-powered applications**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+%26+API+Systems;Turning+Ideas+into+Shipped+Products;Cloud+%26+MLOps+%7C+LLM+Applications" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dheerajram13&color=blue&style=flat" alt="Profile Views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/dheerajsrirama/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://dheerajsrirama.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%231E1E1E.svg?logo=about-dot-me&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dheerajram13&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajram13&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dheerajram13&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dheerajram13&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dheerajram13&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dheerajram13&theme=tokyonight&utcOffset=5.5" height="165" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,typescript,react,nextjs&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,kubernetes,aws,gcp&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nginx,rabbitmq,grafana,git,linux,vscode&perline=8" />
+</p>
+
+---
 
 ### Backend & Systems
 - **Languages:** Python, Go, JavaScript, TypeScript  
@@ -24,7 +75,6 @@ Software Engineer / Data Scientist with experience building **scalable backend s
 - **Monitoring & Reliability:** Sentry, New Relic, Grafana, Loguru  
 - **GCP:** BigQuery, Cloud Functions (working knowledge)
 
-
 ### Data & Analytics Systems
 - **Data Processing:** Pandas, NumPy, SQL  
 - **Analytics & Forecasting:** statsmodels, Prophet  
@@ -41,10 +91,6 @@ Software Engineer / Data Scientist with experience building **scalable backend s
 - **Computer Science:** Data Structures & Algorithms, OOP, Functional Programming  
 - **Architecture:** Database design, System Design, Design Patterns, SOLID Principles
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheerajsrirama/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231E1E1E.svg?logo=about-dot-me&logoColor=white)](https://dheerajsrirama.netlify.app/)
+---
 
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
