@@ -40,6 +40,16 @@
 
 ---
 
+## 🎓 Certifications
+ 
+<p align="center">
+  <a href="https://verify.skilljar.com/c/vvi8nq5o7ikw">
+    <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-orange?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code in Action — Anthropic Education, March 2026" />
+  </a>
+</p>
+
+ ---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
